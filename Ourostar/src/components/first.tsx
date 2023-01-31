@@ -11,7 +11,7 @@ export default component$(() => {
     useStylesScoped$(form)
 
     return (
-        <div class="w-full flex flex-row justify-center items-center bg-black min-h-[87vh]">
+        <div class="w-full flex flex-row justify-center items-center bg-black min-h-full h-full">
             <div class="left flex flex-col items-center justify-center  shrink max-w-[55%] mx-auto">
                 <h1 class="font-extrabold text-center text-4xl text-gold uppercase mb-[1em]"> 
                     Realize seu grande sonho com as menores parcelas do mercado! 
